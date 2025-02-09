@@ -1,0 +1,14 @@
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\bin\Debug\net8.0\calculator-git-assignment.exe
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\bin\Debug\net8.0\calculator-git-assignment.deps.json
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\bin\Debug\net8.0\calculator-git-assignment.runtimeconfig.json
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\bin\Debug\net8.0\calculator-git-assignment.dll
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\bin\Debug\net8.0\calculator-git-assignment.pdb
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.AssemblyInfoInputs.cache
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.AssemblyInfo.cs
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.csproj.CoreCompileInputs.cache
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.dll
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\refint\calculator-git-assignment.dll
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.pdb
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.genruntimeconfig.cache
+D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\ref\calculator-git-assignment.dll
