@@ -12,6 +12,7 @@ namespace calculator_git_assignment
 
         private void Start()
         {
+            Console.WriteLine("Hello test");
             string input = string.Empty;
 
             do

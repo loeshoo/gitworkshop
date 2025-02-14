@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calculator-git-assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+276cfa413e3d9dc0fadaf35897234821d306a3b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("calculator-git-assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculator-git-assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
